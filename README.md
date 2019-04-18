@@ -1,4 +1,4 @@
-# cs130-OpenGL Simplified 3D Rendering Pipeline
+# cs130-Simplified OpenGL 3D Rendering Pipeline
 
 CS 130 OpenGL Graphics Pipeline Project by Andrew Pirelli
 
